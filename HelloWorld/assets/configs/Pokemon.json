@@ -1,0 +1,23 @@
+{
+  "LuxrayLeft": {
+    "Frame0": [ 1.0, 29.0, 61.0, 1.0 ],
+    "Frame1": [ 1.0, 59.0, 61.0, 31.0 ],
+    "NumFrames": 2,
+    "Repeating": true,
+    "SecsPerFrame": 0.3
+  },
+  "LuxrayRight": {
+    "Frame0": [ 63.0, 29.0, 123.0, 1.0 ],
+    "Frame1": [ 63.0, 59.0, 123.0, 31.0 ],
+    "NumFrames": 2,
+    "Repeating": true,
+    "SecsPerFrame": 0.30000001192092896
+  },
+  "RoseradeLeft": {
+    "Frame0": [ 1.0, 24.0, 18.0, 1.0 ],
+    "Frame1": [ 20.0, 24.0, 37.0, 1.0 ],
+    "NumFrames": 2,
+    "Repeating": true,
+    "SecsPerFrame": 0.20000000298023224
+  }
+}
